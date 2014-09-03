@@ -17,8 +17,9 @@
 	padding: 12px;
 	width: 60px;
 	position: fixed;
-	margin-top: 125px;
+	margin: 125px 10px 0px 10px;
 	border-radius: 15px;
+	float:left;
 }
 </style>
 </head>
@@ -26,7 +27,7 @@
 
 <!--copy from here -->
 
-<div class="like" style="border-radius: 15px;border: solid 1px rgb(201, 201, 201);padding: 12px;width: 60px;position: fixed;margin-top: 125px;">
+<div class="like" style="margin: 125px 10px 0px 10px;float:left;border-radius: 15px;border: solid 1px rgb(201, 201, 201);padding: 12px;width: 60px;position: fixed;">
 
 <!-- Edit Below -->
 <?php
