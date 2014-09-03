@@ -1,7 +1,7 @@
 Author @Ashwin K Shenoy
 
-FB Profile: www.fb.com/ashwin.k.shenoy
-Demo: http://bit.ly/1r0MoPn
+FB Profile: www.fb.com/ashwin.k.shenoy    <br>
+Demo of Social-Likes: http://bit.ly/1r0MoPn
 
      This can be integrated with normal websites and on magento framework also,
      (by changing or giving path by php in lurl section for magento)
