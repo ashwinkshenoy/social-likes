@@ -56,10 +56,8 @@
 ####################################
 -->
 		<!--Author @Ashwin K Shenoy-->
-
 		<div style="margin-left:4px;">
 			<!-- fb like button -->
-
 			<div id="fb-root"></div>
 			<script>(function(d, s, id) {
 	 		 var js, fjs = d.getElementsByTagName(s)[0];
@@ -88,12 +86,8 @@
 			<!-- /+1 button -->
 
 		</div>
-
-
 		<br>
-
-			<!--Author @Ashwin K Shenoy-->
-
+		<!--Author @Ashwin K Shenoy-->
 		<!-- Pin button -->
 		<div style="margin-top:30px;">
 			<a href="//www.pinterest.com/pin/create/button/?url=<?php echo $lurl; ?>&media=<?php echo $pinimage;?>&description=<?php echo $pindesc;?>" data-pin-do="buttonPin" data-pin-config="above" data-pin-height="28"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_28.png" /></a>
@@ -101,10 +95,7 @@
 			<script type="text/javascript" async src="//assets.pinterest.com/js/pinit.js"></script>
 		</div>
 		<!-- /Pin button -->
-
-
 			<!--Author @Ashwin K Shenoy-->
-
 		<!-- twitter button -->
 		<div style="margin-top:10px;">
 			<a data-via="<?php echo $via; ?>" data-hashtags="<?php echo $hashtag; ?>" href="https://twitter.com/share" class="twitter-share-button" data-url="<?php echo $lurl; ?>" data-counturl="<?php echo $lurl; ?>" data-lang="en" data-count="vertical">Tweet</a>
@@ -112,13 +103,7 @@
 		</div>
 		<!-- /twitter button -->
 
-
 	</div>
-
 <!-- Copy till here -->
-
-
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 	</body>
 </html>
